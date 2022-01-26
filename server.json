@@ -3,18 +3,26 @@
     {
       "id": 1,
       "name": "Ao molho",
-      "description": "Macarrão ao molho branco, fughi e cheiro verde das montanhas",
+      "description": "MACARRAO SABOR PK",
       "price": "19.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png"
     },
     {
-      "id": 2,
-      "name": "Veggie",
-      "description": "Macarrão com pimentão, ervilha e ervas finas colhidas no himalaia.",
-      "price": "21.90",
+      "image": "https://img.itdg.com.br/tdg/images/recipes/000/000/876/324587/324587_original.jpg?mode=crop&width=710&height=400",
+      "name": "LASANHA",
+      "price": "6.00",
+      "description": "LASANHA DO PK",
       "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png"
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "A la Camarón",
+      "description": "Macarrão com vegetais de primeira linha e camarão dos 7 mares.",
+      "price": "25.90",
+      "available": false,
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
     }
   ]
 }
